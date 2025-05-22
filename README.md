@@ -2,11 +2,11 @@
 
 Создаем репозиторий на Github.com
 
-![alt text](https://github.com/Villigun/netology-sdb-12-07-hw/blob/origin/img/img1-02.png)
+![alt text](https://github.com/Villigun/netology-02-git-01-vcs/blob/main/img/img1-02.png)
 
 и генерируем токен, который сохраняем в файле token.txt, который позже добавим в .gitignore
 
-![alt text](https://github.com/Villigun/netology-sdb-12-07-hw/blob/origin/img/img1-01.png)
+![alt text](https://github.com/Villigun/netology-02-git-01-vcs/blob/main/img/img1-01.png)
 
 Создаем каталог для будущего репозитория:  
 
